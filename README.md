@@ -28,3 +28,4 @@ When adding JS files to your HTML page a link must be written in the HTML. This 
 
  ```<script src="js/add-content.js"></script>```
  
+If problems are created when adding the script file it may be necessary to put the script file line down lower in the HTML file structure.
