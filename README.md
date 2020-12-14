@@ -22,4 +22,6 @@ var greeting;```
 
 ## Javascript Link
 
-When adding JS files to your HTML page a link must be written in the HTML. This lets the browser know to run the script located in a stored location.
+When adding JS files to your HTML page a link must be written in the HTML. This lets the browser know to run the script located in a stored location. This is done by adding a script element in the HTML file.
+
+**Example:** ```<script src="js/add-content.js"></script>```
